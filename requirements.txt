@@ -1,0 +1,6 @@
+numpy
+matplotlib
+control
+slycot
+scipy
+jupyterlab
